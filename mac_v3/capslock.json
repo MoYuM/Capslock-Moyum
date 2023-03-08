@@ -8,7 +8,7 @@
   "author": "Vonng(rh@vonng.com)",
   "website": "http://capslock.vonng.com",
   "json_url": "https://vonng.com/capslock.json",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://vonng.com/capslock.json",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/MoYuM/Capslock-Moyum/master/mac_v3/capslock.json",
   "gallery_url": "https://ke-complex-modifications.pqrs.org/#emulation-modes",
   "repo": "https://github.com/Vonng/Capslock",
   "rules": [
