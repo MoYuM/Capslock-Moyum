@@ -1,9 +1,9 @@
 {
-  "title": "Capslock Enhancement",
+  "title": "CapsLock Plus",
   "url": "https://vonng.com/capslock.json",
   "version": "3.0.3",
   "maintainers": [
-    "Vonng"
+    "moyum"
   ],
   "author": "Vonng(rh@vonng.com)",
   "website": "http://capslock.vonng.com",
@@ -38,7 +38,11 @@
           ],
           "to_if_alone": [
             {
-              "key_code": "escape"
+              "key_code": "spacebar",
+              "modifiers": [
+                "left_control",
+                "left_option"
+              ]
             }
           ]
         },
