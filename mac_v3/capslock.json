@@ -78,13 +78,12 @@
       "description": "Hyper Navigation",
       "manipulators": [
         {
-          "description": "command + h = shift + left",
+          "description": " h = shift + left",
           "type": "basic",
           "from": {
             "key_code": "h",
             "modifiers": {
               "mandatory": [
-                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
